@@ -24,15 +24,6 @@ end
   end
    end
 
-File = gg.getFile():match('[^/]+$')
-name = 'Yoichi.lua'
-if File == name then
-else
-error = 'DONT CHANGE THE NAME OF SCRIPT'
-print(error)
-return
-end
-
 if os.date("%Y%m%d") >= "20240313"then 
 gg.alert("EXPIRED: Buy script message Yoichi on TikTok: @user.01262000")
 os.exit() end
