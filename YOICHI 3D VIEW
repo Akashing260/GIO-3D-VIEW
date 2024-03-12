@@ -36,7 +36,7 @@ gg.alert("Select com.mobile.legends(UnityKillsMe)")
 os.exit()
 end
 
-if os.date("%Y%m%d") >= "20240315"then 
+if os.date("%Y%m%d") >= "20240313"then 
 gg.alert("EXPIRED: Buy script message Yoichi on TikTok: @user.01262000")
 os.exit() end
 
@@ -177,15 +177,6 @@ gg.getResults(4)
 gg.editAll('1110143140', gg.TYPE_DWORD)
 gg.toast('Done')
 gg.clearResults()
-end
-
-File = gg.getFile():match('[^/]+$')
-name = 'YOICHI 3D VIEW.lua'
-if File == name then
-else
-error = 'DONT CHANGE THE NAME OF SCRIPT'
-print(error)
-return
 end
 
 function STM_5_1ueeu0_10_STM()
