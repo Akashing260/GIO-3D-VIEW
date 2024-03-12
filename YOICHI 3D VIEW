@@ -89,23 +89,11 @@ end
   end
    end
 
-IG= gg.prompt({
-"Enter Script Password"
- }, {}, {})
-if not IG then
-  os.exit()
-end
-
-if IG[143] == "" then
-gg.alert("Password Can't Be Empty")
-os.exit()
+r="143"
+R=gg.prompt({""})
+if R[1]==r then
 else
-
-if IG[143] == "143" then
-
 gg.alert("Wrong Password")
-os.exit()
- end
 end
 
 function STM_5_1ueeu0_10_STM()
