@@ -24,7 +24,15 @@ end
   end
    end
 
-if os.date("%Y%m%d") >= "20240313"then 
+T = gg.getTargetPackage() 
+if T == "com.mobile.legends" then 
+gg.alert("Script Start") 
+else 
+gg.alert("Select Mobile Legends: Bang Bang(UnityKillsMe)") 
+os.exit() 
+end
+
+if os.date("%Y%m%d") >= "20240314"then 
 gg.alert("EXPIRED: Buy script message Yoichi on TikTok: @user.01262000")
 os.exit() end
 
