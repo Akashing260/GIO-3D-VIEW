@@ -24,8 +24,7 @@ end
   end
    end
 T = gg.getTargetPackage() 
-if T == "com.mobile.legends" then 
-gg.alert("Script Start") 
+if T == "com.mobile.legends" then
 else 
 gg.alert("Select Mobile Legends: Bang Bang(UnityKillsMe)") 
 os.exit() 
