@@ -23,6 +23,7 @@ end
 end
   end
    end
+
 T = gg.getTargetPackage() 
 if T == "com.mobile.legends" then 
 gg.alert("Script Start") 
@@ -54,6 +55,7 @@ end
 end
   end
    end
+
 ML= gg.prompt({
 "Enter Script Password"
  }, {}, {})
@@ -70,6 +72,7 @@ gg.alert("Wrong Password")
 os.exit()
  end
 end
+
 function STM_5_1ueeu0_10_STM()
   function STM(A0_63, A1_64)
     local L2_65, L3_66, L4_67
@@ -95,10 +98,12 @@ end
 end
   end
    end
+
 if os.date("%Y%m%d") >= "20240314"then 
 gg.alert("EXPIRED: Buy script message Yoichi on TikTok: @user.01262000")
 os.exit()
 end
+
 function STM_5_1ueeu0_10_STM()
   function STM(A0_63, A1_64)
     local L2_65, L3_66, L4_67
