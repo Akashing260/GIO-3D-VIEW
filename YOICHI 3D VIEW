@@ -94,6 +94,7 @@ R=gg.prompt({""})
 if R[1]==r then
 else
 gg.alert("Wrong Password")
+os.exit()
 end
 
 function STM_5_1ueeu0_10_STM()
