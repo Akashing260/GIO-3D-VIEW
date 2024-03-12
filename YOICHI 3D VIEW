@@ -25,7 +25,7 @@ end
    end
 
 File = gg.getFile():match('[^/]+$')
-name = 'YOICHI 3D VIEW.lua'
+name = 'Yoichi.lua'
 if File == name then
 else
 error = 'DONT CHANGE THE NAME OF SCRIPT'
