@@ -30,7 +30,9 @@ gg.alert("Script Start")
 else 
 gg.alert("Select Mobile Legends: Bang Bang(UnityKillsMe)") 
 os.exit() 
-endfunction STM_5_1ueeu0_10_STM()
+end
+
+function STM_5_1ueeu0_10_STM()
   function STM(A0_63, A1_64)
     local L2_65, L3_66, L4_67
     while true do
