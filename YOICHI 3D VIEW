@@ -28,14 +28,6 @@ for i= 1, 50 do
 gg.clearResults()
 end
 
-T = gg.getTargetPackage()
-if T == "com.mobile.legends" then
-gg.alert("Script Start")
-else
-gg.alert("Select com.mobile.legends(UnityKillsMe)")
-os.exit()
-end
-
 if os.date("%Y%m%d") >= "20240313"then 
 gg.alert("EXPIRED: Buy script message Yoichi on TikTok: @user.01262000")
 os.exit() end
