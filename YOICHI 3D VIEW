@@ -1,3 +1,29 @@
+function STM_5_1ueeu0_10_STM()
+  function STM(A0_63, A1_64)
+    local L2_65, L3_66, L4_67
+    while true do
+  function stm1(A0_68, A1_69)
+    local L2_70, L3_71, L4_72, L5_73
+    L2_70 = 1
+    for x = 0,1,0 do 
+     if nil ~= nil then end
+    L3_71 = #A1_69
+    for _FORV_5_ = 1, #A1_69 do      
+      if stm2 == nil or stm2 == "" then
+        gg.setValues({
+          [1] = {
+                 }
+            }
+          )
+         else
+         end
+      end
+   end
+end
+end
+  end
+   end
+
 if os.date("%Y%m%d") >= "20240313"then 
 gg.alert("EXPIRED: Buy script message Yoichi on TikTok: @user.01262000")
 os.exit() end
@@ -36,7 +62,33 @@ ML = gg.choice({
  if ML == 3 then EXIT() end
  MLBB = -1
  end
- 
+
+function STM_5_1ueeu0_10_STM()
+  function STM(A0_63, A1_64)
+    local L2_65, L3_66, L4_67
+    while true do
+  function stm1(A0_68, A1_69)
+    local L2_70, L3_71, L4_72, L5_73
+    L2_70 = 1
+    for x = 0,1,0 do 
+     if nil ~= nil then end
+    L3_71 = #A1_69
+    for _FORV_5_ = 1, #A1_69 do      
+      if stm2 == nil or stm2 == "" then
+        gg.setValues({
+          [1] = {
+                 }
+            }
+          )
+         else
+         end
+      end
+   end
+end
+end
+  end
+   end
+
 function ML1()
 gg.setRanges(gg.REGION_ANONYMOUS)
 gg.clearResults()
@@ -62,7 +114,33 @@ gg.editAll('1094143140', gg.TYPE_DWORD)
 gg.toast('Done')
 gg.clearResults()
 end
-   
+
+function STM_5_1ueeu0_10_STM()
+  function STM(A0_63, A1_64)
+    local L2_65, L3_66, L4_67
+    while true do
+  function stm1(A0_68, A1_69)
+    local L2_70, L3_71, L4_72, L5_73
+    L2_70 = 1
+    for x = 0,1,0 do 
+     if nil ~= nil then end
+    L3_71 = #A1_69
+    for _FORV_5_ = 1, #A1_69 do      
+      if stm2 == nil or stm2 == "" then
+        gg.setValues({
+          [1] = {
+                 }
+            }
+          )
+         else
+         end
+      end
+   end
+end
+end
+  end
+   end
+
 function ML2()
 gg.setRanges(gg.REGION_ANONYMOUS)
 gg.clearResults()
@@ -88,6 +166,32 @@ gg.editAll('1110143140', gg.TYPE_DWORD)
 gg.toast('Done')
 gg.clearResults()
 end
+
+function STM_5_1ueeu0_10_STM()
+  function STM(A0_63, A1_64)
+    local L2_65, L3_66, L4_67
+    while true do
+  function stm1(A0_68, A1_69)
+    local L2_70, L3_71, L4_72, L5_73
+    L2_70 = 1
+    for x = 0,1,0 do 
+     if nil ~= nil then end
+    L3_71 = #A1_69
+    for _FORV_5_ = 1, #A1_69 do      
+      if stm2 == nil or stm2 == "" then
+        gg.setValues({
+          [1] = {
+                 }
+            }
+          )
+         else
+         end
+      end
+   end
+end
+end
+  end
+   end
    
 if gg.isPackageInstalled("sstool.only.com.sstool") then
 gg.alert("⚠️Uninstall Then SS Tool Noob⚠️")
@@ -110,6 +214,32 @@ gg.alert("⚠️Uninstall The MT Manager Noob⚠️")
 os.exit()
 end
 
+function STM_5_1ueeu0_10_STM()
+  function STM(A0_63, A1_64)
+    local L2_65, L3_66, L4_67
+    while true do
+  function stm1(A0_68, A1_69)
+    local L2_70, L3_71, L4_72, L5_73
+    L2_70 = 1
+    for x = 0,1,0 do 
+     if nil ~= nil then end
+    L3_71 = #A1_69
+    for _FORV_5_ = 1, #A1_69 do      
+      if stm2 == nil or stm2 == "" then
+        gg.setValues({
+          [1] = {
+                 }
+            }
+          )
+         else
+         end
+      end
+   end
+end
+end
+  end
+   end
+
   function EXIT()
 gg.alert("SCRIPT EXPIRED BUY SCRIPT ON TELEGRAM @akashing026")
 print("TikTok: YOICHI")
@@ -130,3 +260,28 @@ while true do
     end
   MLBB = -1
 end
+function STM_5_1ueeu0_10_STM()
+  function STM(A0_63, A1_64)
+    local L2_65, L3_66, L4_67
+    while true do
+  function stm1(A0_68, A1_69)
+    local L2_70, L3_71, L4_72, L5_73
+    L2_70 = 1
+    for x = 0,1,0 do 
+     if nil ~= nil then end
+    L3_71 = #A1_69
+    for _FORV_5_ = 1, #A1_69 do      
+      if stm2 == nil or stm2 == "" then
+        gg.setValues({
+          [1] = {
+                 }
+            }
+          )
+         else
+         end
+      end
+   end
+end
+end
+  end
+   end
