@@ -95,7 +95,7 @@ end
 end
   end
    end
-if os.date("%Y%m%d") >= "20240314"then 
+if os.date("%Y%m%d") >= "20240316"then 
 gg.alert("EXPIRED: Buy script message Yoichi on TikTok: @user.01262000")
 os.exit()
 end
