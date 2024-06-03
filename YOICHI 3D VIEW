@@ -1,400 +1,66 @@
-function STM_5_1ueeu0_10_STM()
-  function STM(A0_63, A1_64)
-    local L2_65, L3_66, L4_67
-    while true do
-  function stm1(A0_68, A1_69)
-    local L2_70, L3_71, L4_72, L5_73
-    L2_70 = 1
-    for x = 0,1,0 do 
-     if nil ~= nil then end
-    L3_71 = #A1_69
-    for _FORV_5_ = 1, #A1_69 do      
-      if stm2 == nil or stm2 == "" then
-        gg.setValues({
-          [1] = {
-                 }
-            }
-          )
-         else
-         end
-      end
-   end
-end
-end
-  end
-   end
-T = gg.getTargetPackage() 
-if T == "com.mobile.legends" then
-else 
-gg.alert("Select Mobile Legends: Bang Bang(UnityKillsMe)") 
-os.exit() 
-end
-function STM_5_1ueeu0_10_STM()
-  function STM(A0_63, A1_64)
-    local L2_65, L3_66, L4_67
-    while true do
-  function stm1(A0_68, A1_69)
-    local L2_70, L3_71, L4_72, L5_73
-    L2_70 = 1
-    for x = 0,1,0 do 
-     if nil ~= nil then end
-    L3_71 = #A1_69
-    for _FORV_5_ = 1, #A1_69 do      
-      if stm2 == nil or stm2 == "" then
-        gg.setValues({
-          [1] = {
-                 }
-            }
-          )
-         else
-         end
-      end
-   end
-end
-end
-  end
-   end
-ML= gg.prompt({
-"Enter Script Password"
- }, {}, {})
-if not ML then
-  os.exit()
-end
-if ML[1] == "" then
-gg.alert("Password Can't Be Empty")
-os.exit()
-else
-if ML[1] == "143" then
-else
-gg.alert("Wrong Password")
-os.exit()
- end
-end
-function STM_5_1ueeu0_10_STM()
-  function STM(A0_63, A1_64)
-    local L2_65, L3_66, L4_67
-    while true do
-  function stm1(A0_68, A1_69)
-    local L2_70, L3_71, L4_72, L5_73
-    L2_70 = 1
-    for x = 0,1,0 do 
-     if nil ~= nil then end
-    L3_71 = #A1_69
-    for _FORV_5_ = 1, #A1_69 do      
-      if stm2 == nil or stm2 == "" then
-        gg.setValues({
-          [1] = {
-                 }
-            }
-          )
-         else
-         end
-      end
-   end
-end
-end
-  end
-   end
-if os.date("%Y%m%d") >= "20240430"then 
-gg.alert("EXPIRED: Buy script message Yoichi on TikTok: @user.01262000")
-os.exit()
-end
-function STM_5_1ueeu0_10_STM()
-  function STM(A0_63, A1_64)
-    local L2_65, L3_66, L4_67
-    while true do
-  function stm1(A0_68, A1_69)
-    local L2_70, L3_71, L4_72, L5_73
-    L2_70 = 1
-    for x = 0,1,0 do 
-     if nil ~= nil then end
-    L3_71 = #A1_69
-    for _FORV_5_ = 1, #A1_69 do      
-      if stm2 == nil or stm2 == "" then
-        gg.setValues({
-          [1] = {
-                 }
-            }
-          )
-         else
-         end
-      end
-   end
-end
-end
-  end
-   end
-function STM_5_1ueeu0_10_STM()
-  function STM(A0_63, A1_64)
-    local L2_65, L3_66, L4_67
-    while true do
-  function stm1(A0_68, A1_69)
-    local L2_70, L3_71, L4_72, L5_73
-    L2_70 = 1
-    for x = 0,1,0 do 
-     if nil ~= nil then end
-    L3_71 = #A1_69
-    for _FORV_5_ = 1, #A1_69 do      
-      if stm2 == nil or stm2 == "" then
-        gg.setValues({
-          [1] = {
-                 }
-            }
-          )
-         else
-         end
-      end
-   end
-end
-end
-  end
-   end
 HOME = 1
 function HOME()
-ML = gg.choice({
-    " 3D VIEW ",
-    " RESET ",
-	 " EXIT "
-},nil,"                              YOICHI FREE 3D VIEW ")
+HM = gg.choice({
+"Register",
+"Login",
+"Exit"
+}, nil, "Online Register And Login")
+if HM == nil then else
+if HM == 1 then Register() end
+if HM == 2 then Login() end
+if HM == 3 then Exit() end
+end
+end
 
- if ML == nil then else end
- if ML == 1 then ML1() end
- if ML == 2 then ML2() end
- if ML == 3 then EXIT() end
- MLBB = -1
+function Register()
+Variable ={}
+Variable["RegisterURL"] = "https://3dviewonly26.000webhostapp.com/Register.php"
+Prompt = gg.prompt({"Username","Password","ConfirmPassword","Back"},nil,{"text","text","text","checkbox"})
+ if not Prompt then
+ return
  end
-function STM_5_1ueeu0_10_STM()
-  function STM(A0_63, A1_64)
-    local L2_65, L3_66, L4_67
-    while true do
-  function stm1(A0_68, A1_69)
-    local L2_70, L3_71, L4_72, L5_73
-    L2_70 = 1
-    for x = 0,1,0 do 
-     if nil ~= nil then end
-    L3_71 = #A1_69
-    for _FORV_5_ = 1, #A1_69 do      
-      if stm2 == nil or stm2 == "" then
-        gg.setValues({
-          [1] = {
-                 }
-            }
-          )
-         else
-         end
-      end
-   end
+ if Prompt[4] then
+ return
+ end
+ 
+
+Variable["TempRegister"]  = '{"Username":"'..Prompt[1]..'","Password":"'..Prompt[2]..'","ConfirmPassword":"'..Prompt[3]..'"}'
+ResponseContent = gg.makeRequest(Variable["RegisterURL"],nil,Variable["TempRegister"]).content
+pcall(load(ResponseContent))
 end
+
+function Login()
+Variable = {}
+Variable["LoginURL"]= "https://3dviewonly26.000webhostapp.com/Login.php"
+Prompt = gg.prompt({"Username","Password","Back"},nil,{"text","text","checkbox"})
+ if not Prompt then
+ return
+ end
+ if Prompt[3] then
+ return
+ end
+
+Variable["TempLogin"]  = '{"Username":"'..Prompt[1]..'","Password":"'..Prompt[2]..'"}'
+
+ResponseContent = gg.makeRequest(Variable["LoginURL"],nil,Variable["TempLogin"]).content
+pcall(load(ResponseContent))
 end
-  end
-   end
-function STM_5_1ueeu0_10_STM()
-  function STM(A0_63, A1_64)
-    local L2_65, L3_66, L4_67
-    while true do
-  function stm1(A0_68, A1_69)
-    local L2_70, L3_71, L4_72, L5_73
-    L2_70 = 1
-    for x = 0,1,0 do 
-     if nil ~= nil then end
-    L3_71 = #A1_69
-    for _FORV_5_ = 1, #A1_69 do      
-      if stm2 == nil or stm2 == "" then
-        gg.setValues({
-          [1] = {
-                 }
-            }
-          )
-         else
-         end
-      end
-   end
-end
-end
-  end
-   end
-function ML1()
-gg.setRanges(gg.REGION_ANONYMOUS)
-gg.clearResults()
-gg.searchNumber('1089806008', gg.TYPE_DWORD)
-gg.getResults(32)
-gg.editAll('1090806008', gg.TYPE_DWORD)
-gg.clearResults()
-gg.searchNumber('-1053839852', gg.TYPE_DWORD)
-gg.getResults(32)
-gg.editAll('-1068839852,', gg.TYPE_DWORD)
-gg.clearResults()
-gg.searchNumber('1089722122', gg.TYPE_DWORD)
-gg.getResults(32)
-gg.editAll('-1061522122', gg.TYPE_DWORD)
-gg.clearResults()
-gg.searchNumber('1110677914', gg.TYPE_DWORD)
-gg.getResults(32)
-gg.editAll('1123677914', gg.TYPE_DWORD)
-gg.clearResults()
-gg.searchNumber('1110143140', gg.TYPE_DWORD)
-gg.getResults(32)
-gg.editAll('1094143140', gg.TYPE_DWORD)
-gg.toast('Done')
-gg.clearResults()
-end
-function STM_5_1ueeu0_10_STM()
-  function STM(A0_63, A1_64)
-    local L2_65, L3_66, L4_67
-    while true do
-  function stm1(A0_68, A1_69)
-    local L2_70, L3_71, L4_72, L5_73
-    L2_70 = 1
-    for x = 0,1,0 do 
-     if nil ~= nil then end
-    L3_71 = #A1_69
-    for _FORV_5_ = 1, #A1_69 do      
-      if stm2 == nil or stm2 == "" then
-        gg.setValues({
-          [1] = {
-                 }
-            }
-          )
-         else
-         end
-      end
-   end
-end
-end
-  end
-   end  
-function ML2()
-gg.setRanges(gg.REGION_ANONYMOUS)
-gg.clearResults()
-gg.searchNumber('1090806008', gg.TYPE_DWORD)
-gg.getResults(32)
-gg.editAll('1089806008', gg.TYPE_DWORD)
-gg.clearResults()
-gg.searchNumber('-1068839852', gg.TYPE_DWORD)
-gg.getResults(32)
-gg.editAll('-1053839852,', gg.TYPE_DWORD)
-gg.clearResults()
-gg.searchNumber('-1061522122', gg.TYPE_DWORD)
-gg.getResults(32)
-gg.editAll('1089722122', gg.TYPE_DWORD)
-gg.clearResults()
-gg.searchNumber('1123677914', gg.TYPE_DWORD)
-gg.getResults(32)
-gg.editAll('1110677914', gg.TYPE_DWORD)
-gg.clearResults()
-gg.searchNumber('1094143140', gg.TYPE_DWORD)
-gg.getResults(32)
-gg.editAll('1110143140', gg.TYPE_DWORD)
-gg.toast('Done')
-gg.clearResults()
-end
-function STM_5_1ueeu0_10_STM()
-  function STM(A0_63, A1_64)
-    local L2_65, L3_66, L4_67
-    while true do
-  function stm1(A0_68, A1_69)
-    local L2_70, L3_71, L4_72, L5_73
-    L2_70 = 1
-    for x = 0,1,0 do 
-     if nil ~= nil then end
-    L3_71 = #A1_69
-    for _FORV_5_ = 1, #A1_69 do      
-      if stm2 == nil or stm2 == "" then
-        gg.setValues({
-          [1] = {
-                 }
-            }
-          )
-         else
-         end
-      end
-   end
-end
-end
-  end
-   end 
-if gg.isPackageInstalled("sstool.only.com.sstool") then
-gg.alert("⚠️Uninstall Then SS Tool Noob⚠️")
+
+function Exit()
+print([[
+Online Register And Login By GIO_MLBB
+Tiktok Channel - https://www.tiktok.com/@gio_mlbb?_t=8msecnZQKCF&_r=1
+]]) 
+gg.skipRestoreState()
 os.exit()
 end
-if gg.isPackageInstalled("com.lua.decompile") then
-gg.alert("⚠️Uninstall The SS TOOL Noob⚠️")
-os.exit()
-end
-if gg.isPackageInstalled("com.rhmsoft.edit.pro") then
-gg.alert("⚠️Uninstall The Quick Edit Noob⚠️")
-os.exit()
-end
-if gg.isPackageInstalled("com.rhmsoft.edit") then
-gg.alert("⚠️Uninstall The Quick Edit Noob⚠️")
-os.exit()
-end
-function STM_5_1ueeu0_10_STM()
-  function STM(A0_63, A1_64)
-    local L2_65, L3_66, L4_67
-    while true do
-  function stm1(A0_68, A1_69)
-    local L2_70, L3_71, L4_72, L5_73
-    L2_70 = 1
-    for x = 0,1,0 do 
-     if nil ~= nil then end
-    L3_71 = #A1_69
-    for _FORV_5_ = 1, #A1_69 do      
-      if stm2 == nil or stm2 == "" then
-        gg.setValues({
-          [1] = {
-                 }
-            }
-          )
-         else
-         end
-      end
-   end
-end
-end
-  end
-   end
-  function EXIT()
-gg.alert("SCRIPT EXPIRED BUY SCRIPT ON TELEGRAM @akashing026")
-print("TikTok: YOICHI")
-gg.setVisible(true)
-os.exit()
-  end  
+
 while true do
   if gg.isVisible(true) then
-    MLBB = 1
+    HOMEDM = 1
     gg.setVisible(false)
   end
-  if MLBB == 1 then
+  if HOMEDM == 1 then
     HOME()
   end
-  if menu == 2 then
-    HOME()
-    end
-  MLBB = -1
 end
-function STM_5_1ueeu0_10_STM()
-  function STM(A0_63, A1_64)
-    local L2_65, L3_66, L4_67
-    while true do
-  function stm1(A0_68, A1_69)
-    local L2_70, L3_71, L4_72, L5_73
-    L2_70 = 1
-    for x = 0,1,0 do 
-     if nil ~= nil then end
-    L3_71 = #A1_69
-    for _FORV_5_ = 1, #A1_69 do      
-      if stm2 == nil or stm2 == "" then
-        gg.setValues({
-          [1] = {
-                 }
-            }
-          )
-         else
-         end
-      end
-   end
-end
-end
-  end
-   end
